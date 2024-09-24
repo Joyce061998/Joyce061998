@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Joyce061998
+- 👀 I’m interested in Software Engineering, Software Quality Assurance, API, SAP , Math, Technologyand etc.
+- 🌱 I’m currently learning upskilling in programming and development
+- 💞️ I’m looking to collaborate on learning Quality Assurance both Manual and Automatin
+- 📫 Reach me on GITHUB
+- 😄 Pronouns:(THEY)
+- ⚡ Fun fact: Cute 
