@@ -12,6 +12,8 @@
 <h3>- ⚡ Fun fact: Cute, Bubbly and ready to date with developer</h3>
   </p>
 </div> 
+
+  
 <div>
 <p>Notes: This readme.md file was only a profile and lit bit introduction for myself</p>
 </div>
