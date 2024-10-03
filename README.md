@@ -1,5 +1,16 @@
 <html>
 <body>
+<head>
+<style>
+table, th, td {
+  border: 1px solid;
+}
+
+table {
+  width: 100%;
+}
+</style>
+</head>
 <h1 style="color:Tomato;">This is Jamela</h1>
 
 <div><p>
