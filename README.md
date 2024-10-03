@@ -1,15 +1,7 @@
 <html>
 <body>
 <head>
-<style>
-table, th, td {
-  border: 1px solid;
-}
-
-table {
-  width: 100%;
-}
-</style>
+  <title>Joyce's Story </title>
 </head>
 <h1 style="color:Tomato;">This is Jamela</h1>
 
