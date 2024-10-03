@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1 style="color:Blue;">This is Jamela</h1>
+<style="color:Blue;">This is Jamela</h1>
 <div>
 <p>
 <h3>- 👋 Hi, I’m @Joyce061998 </h3>
